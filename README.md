@@ -8,11 +8,8 @@ I’m a Brazilian Software Developer with Italian roots and a mission: to bridge
 
 ## 🚀 What I’m Building
 
-- **💸 Meu Bolso** – A personal finance manager built with Node.js, Next.js, and SQLite. Tracks your bank accounts, cards, income, and expenses — with a clean UI and data-first backend.
 - **📊 Investor Risk Profile Tool** – Inspired by Riskalyze, this dynamic 3-step simulation uses React, shadcn/ui, and charts to calculate risk appetite through visual decision scenarios.
-- **🔌 Plugin Dev** – Custom WordPress + WooCommerce plugins for member-based access control and API integrations (Hubla, MemberPress, Fluent SMTP).
 
----
 
 ## 🛠 Tech Stack
 
@@ -38,8 +35,6 @@ Data visualization · Web scraping · Automation · Financial simulations · AI 
 
 ## 🌱 Currently Learning
 
-- **n8n** for low-code automations  
-- **Advanced Laravel** for backend systems  
 - **UI/UX refinement** with shadcn/ui + Tailwind  
 - **Growth strategies** for tech content on LinkedIn & Instagram
 
@@ -51,8 +46,3 @@ Data visualization · Web scraping · Automation · Financial simulations · AI 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzog-ribeiro/) 
 - [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/lorenzoribeiro)
 - ✉️ DM me if you're building in **FinTech**, **EdTech**, or launching a **bootstrap MVP**.
-
----
-
-> “Code is how I think. Finance is what I care about. Impact is why I do it.”
-
